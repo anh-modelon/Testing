@@ -1,0 +1,2 @@
+package LibraryA
+end LibraryA;
